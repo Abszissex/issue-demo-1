@@ -1,7 +1,7 @@
 
 
 const x = () => {
-  console.log('a12sa2');
+  console.log('Just some demo');
 }
 
 x();
